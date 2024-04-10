@@ -45,7 +45,7 @@
 
 ## Team
 ### Leader
-##### Nikolay Shangov - [GitHub Profile](https://github.com/nikolayshangov "Nikolay's GitHub Profile") | [YouTube Profile](https://www.youtube.com/@nikolayshangov "Nikolay's YouTube Profile")
+##### Nikolay Shangov - [GitHub Profile](https://github.com/nikolayshangov "Nikolay's GitHub Profile") , [YouTube Profile](https://www.youtube.com/@nikolayshangov "Nikolay's YouTube Profile")
 ### Members
 ##### Gabriela Kirilova - [GitHub Profile](https://github.com/- "1's GitHub Profile") - To be updated.
 ##### Kiril Pavlov - [GitHub Profile](https://github.com/KiroBreikabg "Kiril's GitHub Profile")
