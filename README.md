@@ -54,5 +54,7 @@
 ### Credits
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
 
+#### Images
+
 ## License
 ##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
