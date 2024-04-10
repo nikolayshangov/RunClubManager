@@ -1,0 +1,47 @@
+﻿@using RunGroopWebApp.ViewModels
+@model HomeViewModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1 class="jumbotron-heading">Welcome to RunClubManager!</h1>
+        <p class="lead text-muted">
+            <b>Register</b> and then <b>Login</b> to create, edit and manage <b>Races</b> and <b>Clubs</b>, 
+            statistics of our <b>Users</b> are available in <b>Runners</b>.
+    </div>
+</section>
+<div class="album py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <h1 class="fw-light">Running clubs near @Model.City, @Model.State</h1>
+            @if (Model.Clubs == null)
+            {
+                <h1 class="fw-light">There are no running clubs in your area! <a asp-area="" asp-controller="Account"
+                    asp-action="Login">Login</a> and create one!</h1>
+            }
+            else
+            {
+                @foreach (var item in Model.Clubs)
+                {
+                    <div class="col-md-4">
+                        <div class="card mb-4 box-shadow">
+                            <img src="@item.Image" class="bd-placeholder-img card-img-top" width="100" height="350"></img>
+                            <div class="card-body">
+                                <p class="card-text">@item.Title</p>
+                                <p class="card-text">@item.Description</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="btn-group">
+                                        <a type="btn btn-success" asp-controller="Club" asp-action="Detail" asp-route-id="@item.Id"
+                                    class="btn btn-sm btn-outline-secondary">View</a>
+                                    </div>
+                                    <small class="text-muted">Powered by RunClubManager (using IP Location)</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+    </div>
+</div>

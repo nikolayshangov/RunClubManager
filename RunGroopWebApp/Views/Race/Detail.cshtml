@@ -1,0 +1,32 @@
+﻿@model Race
+
+
+@{
+    ViewData["Title"] = "Race Details";
+}
+
+<div class="container">
+
+    <h1 class="my-4">
+        Race Details
+        <small></small>
+    </h1>
+
+    <div class="row">
+
+        <div class="col-md-3">
+            <img class="img-fluid" src="@Model.Image" alt="">
+        </div>
+
+        <div class="col-md-4">
+            <h3 class="my-3">@Model.Title</h3>
+            <p>@Model.Description</p>
+            <h3 class="my-3">Location</h3>
+            <ul>
+                <li>@Model.Address.City</li>
+                <li>@Model.Address.State</li>
+                <li>@Model.RaceCategory</li>
+            </ul>
+        </div>
+    </div>
+</div>
