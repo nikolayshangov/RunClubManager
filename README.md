@@ -59,7 +59,7 @@
 ##### <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
 ##### <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
 ##### <a href="https://unsplash.com/@chanderr">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ">Unsplash</a>
-##### Photo by <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
+##### <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
 
 ## License
 ##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
