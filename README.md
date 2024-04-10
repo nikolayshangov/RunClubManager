@@ -55,7 +55,7 @@
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
 
 #### Images
-##### - Photo by <a href="https://unsplash.com/@knowjack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">jack atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+##### Photo by <a href="https://unsplash.com/@knowjack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">jack atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ## License
 ##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
