@@ -15,7 +15,6 @@
 
 ## Summary
 ##### To be updated. (11-04-2024)
-![image](https://github.com/nikolayshangov/runclubmanager/assets/100240526/a43c4ec8-242d-47a9-868d-e11ca8a9595f)
 
 ### Screenshots
 #### Pages
