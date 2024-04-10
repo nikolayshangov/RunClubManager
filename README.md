@@ -55,7 +55,10 @@
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
 
 #### Images
-##### Photo by <a href="https://unsplash.com/@knowjack?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+##### <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
+<a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
+<a href="https://unsplash.com/@chanderr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+<a href="https://www.shutterstock.com">Shutterstock</a>
 
 ## License
 ##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
