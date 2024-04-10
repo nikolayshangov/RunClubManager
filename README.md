@@ -19,7 +19,6 @@
 ### Screenshots
 #### Pages
 ##### Home
-![image](https://github.com/nikolayshangov/runclubmanager/assets/100240526/798c8410-f418-4c2b-a49d-b03d8522fab7)
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/a7919ada-09a1-4f6f-865b-ac830a7c3251)
 
 ##### Races
