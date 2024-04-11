@@ -68,7 +68,8 @@
 ##### <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
 ##### <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
 
-#### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
+#### Creators
+##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
 
 ## License
 ##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
