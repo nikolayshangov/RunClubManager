@@ -70,8 +70,8 @@
 ### Leader
 ##### - Nikolay Shangov ([GitHub Profile](https://github.com/nikolayshangov "Nikolay's GitHub Profile"), [YouTube Account](https://www.youtube.com/@nikolayshangov "Nikolay's YouTube Account"))
 #### Members
-##### - Gabriela Kirilova ([GitHub Profile](https://github.com/- "1's GitHub Profile"), [- Profile](- "1's - Profile")) [To be updated soon.]
 ##### - Kiril Pavlov ([GitHub Profile](https://github.com/KiroBreikabg "Kiril's GitHub Profile"), [- Profile](- "2's - Profile")) [To be updated soon.]
+##### - Gabriela Kirilova ([GitHub Profile](https://github.com/- "1's GitHub Profile"), [- Profile](- "1's - Profile")) [To be updated soon.]
 ##### - Ivan Vodenicharov ([GitHub Profile](https://github.com/- "3's GitHub Profile"), [- Profile](- "3's - Profile")) [To be updated soon.]
 
 ## Credits
@@ -84,7 +84,7 @@
 ##### - <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
 
 #### Creators
-##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
+##### Copyright &copy; 2024 Nikolay Shangov, Kiril Pavlov, Gabriela Kirilova and Ivan Vodenicharov.
 
 ## License
 ##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
