@@ -5,16 +5,16 @@
 ##### Project for "IT Carrer" National Programme of the Ministry of Education and Science (MES) [Module 13 - "Software Engineering"]
 
 ### Details
-##### To be updated. (11-04-2024)
+##### To be updated soon. (12-04-2024)
 
 ## Notes
-##### To be updated. (11-04-2024) 
+##### To be updated soon. (12-04-2024) 
 
 ### Built with
-##### To be updated. (11-04-2024)
+##### To be updated soon. (11-04-2024)
 
 ## Summary
-##### To be updated. (11-04-2024)
+##### To be updated soon. (12-04-2024)
 
 ### Screenshots
 #### Pages
