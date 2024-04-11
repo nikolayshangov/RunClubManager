@@ -68,20 +68,20 @@
 
 ## Team
 ### Leader
-##### Nikolay Shangov - [GitHub Profile](https://github.com/nikolayshangov "Nikolay's GitHub Profile") , [YouTube Account](https://www.youtube.com/@nikolayshangov "Nikolay's YouTube Account")
+##### - Nikolay Shangov - [GitHub Profile](https://github.com/nikolayshangov "Nikolay's GitHub Profile") , [YouTube Account](https://www.youtube.com/@nikolayshangov "Nikolay's YouTube Account")
 #### Members
-##### Gabriela Kirilova - [GitHub Profile](https://github.com/- "1's GitHub Profile") , [- Profile](- "1's - Profile") - To be updated.
-##### Kiril Pavlov - [GitHub Profile](https://github.com/KiroBreikabg "Kiril's GitHub Profile") , [- Profile](- "2's - Profile") - To be updated.
-##### Ivan Vodenicharov - [GitHub Profile](https://github.com/- "3's GitHub Profile") , [- Profile](- "3's - Profile") - To be updated.
+##### - Gabriela Kirilova - [GitHub Profile](https://github.com/- "1's GitHub Profile") , [- Profile](- "1's - Profile") - To be updated.
+##### - Kiril Pavlov - [GitHub Profile](https://github.com/KiroBreikabg "Kiril's GitHub Profile") , [- Profile](- "2's - Profile") - To be updated.
+##### - Ivan Vodenicharov - [GitHub Profile](https://github.com/- "3's GitHub Profile") , [- Profile](- "3's - Profile") - To be updated.
 
 ## Credits
 ### Images
-##### <a href="https://www.shutterstock.com">Shutterstock</a>
-##### <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
-##### <a href="https://unsplash.com/@chanderr">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ">Unsplash</a>
-##### <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
-##### <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
-##### <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
+##### - <a href="https://www.shutterstock.com">Shutterstock</a>
+##### - <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
+##### - <a href="https://unsplash.com/@chanderr">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ">Unsplash</a>
+##### - <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
+##### - <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
+##### - <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
 
 #### Creators
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
