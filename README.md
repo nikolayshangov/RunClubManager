@@ -15,8 +15,8 @@
 ##### SQL Server 2022 (Express or Developer Edition)
 ##### SQL Server Management Studio 20.1 (SSMS)
 ##### Visual Studio 2022 (Community, Professional or Enterprise Edition)
-Cloudinary Account (for CloudName, API Key, API Secret)
-IPinfo Account (for Token)
+##### Cloudinary Account (for CloudName, API Key, API Secret)
+##### IPinfo Account (for Token)
 
 ### Built with
 ##### ASP.NET Core Model-View-Controller (MVC)
@@ -72,7 +72,6 @@ IPinfo Account (for Token)
 ##### Ivan Vodenicharov - [GitHub Profile](https://github.com/- "3's GitHub Profile") , [- Profile](- "3's - Profile") - To be updated.
 
 ## Credits
-
 ### Images
 ##### <a href="https://www.shutterstock.com">Shutterstock</a>
 ##### <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
