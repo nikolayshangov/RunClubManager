@@ -17,6 +17,7 @@
 ##### Visual Studio 2022 (Community, Professional or Enterprise Edition)
 ##### Cloudinary Account (for CloudName, API Key, API Secret)
 ##### IPinfo Account (for Token)
+##### Custom Database (RunClubManager.dacpac) from RunClubManager's GitHub Repository
 
 ### Built with
 ##### ASP.NET Core Model-View-Controller (MVC)
