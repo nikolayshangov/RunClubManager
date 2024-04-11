@@ -17,10 +17,10 @@
 ### Built with
 ##### ASP.NET Core Model-View-Controller
 
-## -
+## To be added.
 ##### To be updated soon. (12-04-2024)
 
-## -
+## To be added.
 ##### To be updated soon. (12-04-2024)
 
 ### Screenshots
