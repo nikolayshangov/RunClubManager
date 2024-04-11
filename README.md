@@ -64,9 +64,9 @@
 ##### <a href="https://www.shutterstock.com">Shutterstock</a>
 ##### <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
 ##### <a href="https://unsplash.com/@chanderr">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ">Unsplash</a>
+##### <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
 ##### <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
 ##### <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
-##### <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
 
 #### Creators
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
