@@ -15,7 +15,7 @@
 ##### - SQL Server 2022 (Express or Developer Edition)
 ##### - SQL Server Management Studio 20.1 (SSMS)
 ##### - Visual Studio 2022 (Community, Professional or Enterprise Edition)
-##### - Custom Database (RunClubManager.dacpac) [from RunClubManager's GitHub Repository]
+##### - Custom Database (RunClubManager.dacpac) <a href="https://github.com/nikolayshangov/runclubmanager/blob/master/CustomDatabase/RunClubManager.dacpac">[from RunClubManager's GitHub Repository]</a>
 ##### - Cloudinary Account (for CloudName, API Key, API Secret)
 ##### - IPinfo Account (for Token)
 
@@ -82,8 +82,6 @@
 ##### - <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
 ##### - <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
 ##### - <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
-
-<a href="https://github.com/nikolayshangov/runclubmanager/blob/master/CustomDatabase/RunClubManager.dacpac">[from RunClubManager's GitHub Repository]</a>
 
 #### Creators
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
