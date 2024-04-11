@@ -16,6 +16,7 @@
 
 ### Built with
 ##### ASP.NET Core Model-View-Controller
+##### Entity Framework Core
 
 ## To be added.
 ##### To be updated soon. (12-04-2024)
