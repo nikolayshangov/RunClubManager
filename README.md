@@ -11,27 +11,27 @@
 ##### To be updated soon. (12-04-2024)
 
 ### Required software, files and API
-##### .NET 6.0
-##### SQL Server 2022 (Express or Developer Edition)
-##### SQL Server Management Studio 20.1 (SSMS)
-##### Visual Studio 2022 (Community, Professional or Enterprise Edition)
-##### Custom Database (RunClubManager.dacpac) [from RunClubManager's GitHub Repository]
-##### Cloudinary Account (for CloudName, API Key, API Secret)
-##### IPinfo Account (for Token)
+##### - .NET 6.0
+##### - SQL Server 2022 (Express or Developer Edition)
+##### - SQL Server Management Studio 20.1 (SSMS)
+##### - Visual Studio 2022 (Community, Professional or Enterprise Edition)
+##### - Custom Database (RunClubManager.dacpac) [from RunClubManager's GitHub Repository]
+##### - Cloudinary Account (for CloudName, API Key, API Secret)
+##### - IPinfo Account (for Token)
 
 ### Built with
-##### C#
-##### ASP.NET Core Model-View-Controller (MVC)
-##### ASP.NET Core Model-View-Controller (MVC) Views
-##### ASP.NET Core Model-View-Controller (MVC) Identity
-##### ASP.NET Core Model-View-Controller (MVC) Controller
-##### ASP.NET Core Model-View-Controller (MVC) Dependency Injection [Services]
-##### Entity Framework Core
-##### Javascript
-##### JSON
-##### Bootstrap (Jumbotron) [Album Example, Wider Cards with Thumbnails)
-##### Cloudinary .NET SDK
-##### IPinfo .NET SDK
+##### - C#
+##### - ASP.NET Core Model-View-Controller (MVC)
+##### - ASP.NET Core Model-View-Controller (MVC) Views
+##### - ASP.NET Core Model-View-Controller (MVC) Identity
+##### - ASP.NET Core Model-View-Controller (MVC) Controller
+##### - ASP.NET Core Model-View-Controller (MVC) Dependency Injection [Services]
+##### - Entity Framework Core
+##### - Javascript
+##### - JSON
+##### - Bootstrap (Jumbotron) [Album Example, Wider Cards with Thumbnails)
+##### - Cloudinary .NET SDK
+##### - IPinfo .NET SDK
 
 ## To be added.
 ##### To be updated soon. (12-04-2024)
