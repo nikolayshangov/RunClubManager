@@ -8,10 +8,14 @@
 ##### To be updated soon. (12-04-2024)
 
 ## Notes
-##### To be updated soon. (12-04-2024) 
+##### To be updated soon. (12-04-2024)
 
-### Built with
-##### To be updated soon. (11-04-2024)
+### Required software
+##### SQL Server Management Studio (SSMS)
+##### Visual Studio 2022 (Community, Professional or Enterprise)
+
+#### Built with
+##### ASP.NET Core Model-View-Controller
 
 ## Summary
 ##### To be updated soon. (12-04-2024)
@@ -59,6 +63,7 @@
 ##### <a href="https://unsplash.com/@chanderr">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ">Unsplash</a>
 ##### <a href="https://unsplash.com/@knowjack">Jack Atkinson</a> on <a href="https://unsplash.com/photos/boy-in-white-t-shirt-and-blue-shorts-running-on-gray-concrete-road-during-daytime-CUfDlYxZx8I">Unsplash</a>
 ##### <a href="https://unsplash.com/@amutiomi">Miguel A Amutio</a> on <a href="https://unsplash.com/photos/people-running-on-gray-asphalt-road-during-daytime-Y0woUmyxGrw">Unsplash</a>
+##### <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
 
 ##### Copyright &copy; 2024 Nikolay Shangov, Gabriela Kirilova, Kiril Pavlov and Ivan Vodenicharov.
 
