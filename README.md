@@ -20,21 +20,18 @@
 ##### - Cloudinary Account (for CloudName, API Key, API Secret)
 ##### - IPinfo Account (for Token)
 
-### Built with
+## Built with
 ##### - C#
 ##### - SQL Server
 ##### - ASP.NET Core Model-View-Controller (MVC) [used Views, Identity, Controller, Dependency Injection for Services]
 ##### - Entity Framework Core
 ##### - Javascript
 ##### - JSON
-##### - Bootstrap (Jumbotron) [used Album Example, Wider Cards with Thumbnails]
+##### - Bootstrap (Jumbotron) [used Album Example, Wider Cards for Thumbnails]
 ##### - Cloudinary (.NET SDK)
 ##### - IPinfo (.NET SDK)
 
-## To be added soon.
-##### - To be updated soon. (12-04-2024 or 13-04-2024)
-
-## To be added soon.
+### To be added soon.
 ##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ### Screenshots
