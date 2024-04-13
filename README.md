@@ -42,6 +42,7 @@
 ##### Register
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/7f0d3881-feb6-4b5e-812b-555d305dc5f6)
 ##### Login
+#### Pages with Special Access
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/9a5eb8af-9f06-405f-b634-aabe4bea9b34)
 ##### Runners (Logged in) [Administrator/User]
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/efbebdca-71a7-47f8-8f8f-55cb23a04abf)
