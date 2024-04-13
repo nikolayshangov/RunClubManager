@@ -1,5 +1,5 @@
-![RunClubManager](https://github.com/nikolayshangov/runclubmanager/assets/100240526/7edca8a3-6c8e-45e1-90a6-2d1ca4ff026e)
 # RunClubManager
+![RunClubManager](https://github.com/nikolayshangov/runclubmanager/assets/100240526/7edca8a3-6c8e-45e1-90a6-2d1ca4ff026e)
 ##### Web application to serve as a management system for running clubs, their races, and tracking the personal statistics of the users.
 
 ## Description
