@@ -6,10 +6,10 @@
 ##### Project for "IT Carrer" National Programme of the Ministry of Education and Science (MES) [Module 13 - "Software Engineering"]
 
 ### To be added soon.
-##### - To be updated soon. (12-04-2024)
+##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ## To be added soon.
-##### - To be updated soon. (12-04-2024)
+##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ### Required software, files and API
 ##### - .NET 6.0
@@ -35,10 +35,10 @@
 ##### - IPinfo .NET SDK
 
 ## To be added soon.
-##### - To be updated soon. (12-04-2024)
+##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ## To be added soon.
-##### - To be updated soon. (12-04-2024)
+##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ### Screenshots
 #### Pages
