@@ -1,6 +1,6 @@
 # RunClubManager
-##### Web application to serve as a management system for running clubs, their races, and tracking the personal statistics of the users.
 ![RunClubManager](https://github.com/nikolayshangov/runclubmanager/assets/100240526/7edca8a3-6c8e-45e1-90a6-2d1ca4ff026e)
+##### Web application to serve as a management system for running clubs, their races, and tracking the personal statistics of the users.
 
 ## Description
 ##### Project for "IT Carrer" National Programme of the Ministry of Education and Science (MES) [Module 13 - "Software Engineering"]
