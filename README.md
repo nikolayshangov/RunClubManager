@@ -31,8 +31,8 @@
 ##### - Javascript
 ##### - JSON
 ##### - Bootstrap (Jumbotron) [Album Example, Wider Cards with Thumbnails)
-##### - Cloudinary .NET SDK
-##### - IPinfo .NET SDK
+##### - Cloudinary (.NET SDK)
+##### - IPinfo (.NET SDK)
 
 ## To be added soon.
 ##### - To be updated soon. (12-04-2024 or 13-04-2024)
