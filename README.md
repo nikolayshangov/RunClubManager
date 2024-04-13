@@ -6,7 +6,7 @@
 ##### Project for "IT Carrer" National Programme of the Ministry of Education and Science (MES) [Module 13 - "Software Engineering"]
 
 ### Details
-##### - This application is capable of adding clubs and running races with specific image, place and type. Registered users can edit their own profiles, create races and clubs or edit/delete their own ones and see statistics of other runners. Unregistered users can see registered users' clubs and races and are not able to see statistics of the other runners. The project relies on external service providers, it is accessing them via their API which requires authentication.
+##### - This application is capable of adding clubs and running races with specific image, place and type. Registered users can edit their own profiles, create races and clubs or edit/delete their own ones and see statistics of other runners. Unregistered users can see registered users' clubs and races and are not able to see statistics of the other runners. The project relies on external service providers, it is accessing them via their API which requires authentication, the application won't be fully functional without them.
 
 ## Features
 ##### - To be updated soon. (12-04-2024 or 13-04-2024)
