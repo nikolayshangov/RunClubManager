@@ -9,7 +9,34 @@
 ##### This application is capable of adding clubs and running races with specific image, place and type. Registered users can edit their own profiles, create races and clubs or edit/delete their own ones and see statistics of other runners. Unregistered users can see registered users' clubs and races and are not able to see statistics of the other runners. The project relies on external service providers, it is accessing them via their API which requires authentication, the application won't be fully functional without them.
 
 ## Installation
-##### - To be updated soon. (12-04-2024 or 13-04-2024)
+##### - Download RunClubManager.dacpac <a href="https://github.com/nikolayshangov/runclubmanager/blob/master/CustomDatabase/RunClubManager.dacpac">[from RunClubManager's GitHub Repository]</a>
+##### - Start Visual Studio, Use SQL Server Object Explorer, Locate your SQL Server Instance and expand it to Databases then right-click, press Publish Data-tier Application.
+##### - Select RunClubManager.dacpac and make sure Database Name, Publish Script Name are called RunClubManager, then click on Publish.
+##### - Download the Code from GitHub, open the project and go back in SQL Server Object Explorer.
+##### - Right-click on your SQL Server Instance and then click on Properties, find Connection string, copy it and paste it in `appsettings.json`:
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "ReplaceWithConnectionString"
+  }
+```
+##### - Get your CloudName, API Key, API Secret from Cloudinary and paste them in `appsettings.json`:
+```json
+  "CloudinarySettings": {
+    "CloudName": "ReplaceWithYourCloudName",
+    "ApiKey": "ReplaceWithYourApiKey",
+    "ApiSecret": "ReplaceWithYourApiSecret"
+  },
+```
+##### - Get your Token from IPinfo and paste them in Controllers/`HomeController.cs`:
+```json
+var ipInfo = new IPInfo();
+var homeViewModel = new HomeViewModel();
+try
+{
+    string url = "https://ipinfo.io?token=ReplaceWithYourToken";
+    var info = new WebClient().DownloadString(url);
+```
 
 ### Required software, files and API
 ##### - .NET 6.0
