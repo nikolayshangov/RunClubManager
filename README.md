@@ -5,10 +5,10 @@
 ## Description
 ##### Project for "IT Carrer" National Programme of the Ministry of Education and Science (MES) [Module 13 - "Software Engineering"]
 
-### To be added soon.
+### Details
 ##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
-## To be added soon.
+## Installation
 ##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ### Required software, files and API
@@ -22,15 +22,12 @@
 
 ### Built with
 ##### - C#
-##### - ASP.NET Core Model-View-Controller (MVC)
-##### - ASP.NET Core Model-View-Controller (MVC) Views
-##### - ASP.NET Core Model-View-Controller (MVC) Identity
-##### - ASP.NET Core Model-View-Controller (MVC) Controller
-##### - ASP.NET Core Model-View-Controller (MVC) Dependency Injection [Services]
+##### - SQL Server
+##### - ASP.NET Core Model-View-Controller (MVC) [used Views, Identity, Controller, Dependency Injection for Services]
 ##### - Entity Framework Core
 ##### - Javascript
 ##### - JSON
-##### - Bootstrap (Jumbotron) [Album Example, Wider Cards with Thumbnails)
+##### - Bootstrap (Jumbotron) [used Album Example, Wider Cards with Thumbnails]
 ##### - Cloudinary (.NET SDK)
 ##### - IPinfo (.NET SDK)
 
