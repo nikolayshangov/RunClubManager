@@ -69,7 +69,7 @@
 
 ## Credits
 ### Images
-##### - <a href="https://www.shutterstock.com">Shutterstock</a>
+##### - <a href="https://www.freepik.com/author/mariiaboiko">Mariiaboiko</a> on <a href="https://www.freepik.com/premium-photo/woman-running-autumn-field-sunset-healthy-lifestyle-concept-active-sportive-people-close-up-legs_18210801.htm">Freepik</a>
 ##### - <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
 ##### - <a href="https://unsplash.com/@chanderr">Chander R</a> on <a href="https://unsplash.com/photos/man-in-yellow-tank-top-running-near-shore-z4WH11FMfIQ">Unsplash</a>
 ##### - <a href="https://www.youtube.com/@TeddySmithDev">Teddy Smith</a> on <a href="https://www.youtube.com/">YouTube</a>
