@@ -13,7 +13,7 @@
 ##### - Start Visual Studio, Use SQL Server Object Explorer, Locate your SQL Server Instance and expand it to Databases then right-click, press Publish Data-tier Application.
 ##### - Select RunClubManager.dacpac and make sure Database Name, Publish Script Name are called RunClubManager, then click on Publish.
 ##### - Download the Code from GitHub, open the project and go back in SQL Server Object Explorer.
-##### - Right-click on your SQL Server Instance and then click on Properties, find Connection string, copy it and paste it in `appsettings.json`:
+##### - Right-click on your SQL Server Instance, click on Properties, find Connection string, copy it and paste it in `appsettings.json`:
 ```json
 {
   "ConnectionStrings": {
