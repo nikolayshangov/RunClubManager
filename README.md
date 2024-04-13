@@ -34,15 +34,15 @@
 
 ### Screenshots
 #### Pages
-##### - Home
+##### - Home (Logged out)
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/a7919ada-09a1-4f6f-865b-ac830a7c3251)
-##### - Races
+##### - Races (Logged out)
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/3e529d66-d87b-48c1-bed4-adbbdc2c03ab)
-##### - Clubs
+##### - Clubs (Logged out)
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/e6342180-6e73-48f8-995f-a8f305315e04)
-##### - Register
+##### - Register (Logged out)
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/7f0d3881-feb6-4b5e-812b-555d305dc5f6)
-##### - Login
+##### - Login (Logged out)
 ![image](https://github.com/nikolayshangov/RunClubManager/assets/100240526/9a5eb8af-9f06-405f-b634-aabe4bea9b34)
 #### Pages with Special Access
 ##### - Runners (Logged in) [Administrator/User]
