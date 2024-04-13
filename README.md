@@ -29,7 +29,7 @@
   },
 ```
 ##### - Get your Token from IPinfo and paste them in Controllers/`HomeController.cs`:
-```json
+```
 var ipInfo = new IPInfo();
 var homeViewModel = new HomeViewModel();
 try
