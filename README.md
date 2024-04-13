@@ -8,6 +8,9 @@
 ### Details
 ##### - This application is capable of adding clubs and running races with specific image, place and type. Registered users can edit their own profiles, create races and clubs or edit/delete their own ones and see statistics of other runners. Unregistered users can see registered users' clubs and races and are not able to see statistics of the other runners. The project relies on external service providers, it is accessing them via their API which requires authentication, the application won't be fully functional without them.
 
+## Installation
+##### - To be updated soon. (12-04-2024 or 13-04-2024)
+
 ### Required software, files and API
 ##### - .NET 6.0
 ##### - SQL Server 2022 (Express or Developer Edition)
@@ -27,9 +30,6 @@
 ##### - Bootstrap (Jumbotron) [used Album Example, Wider Cards for Thumbnails]
 ##### - Cloudinary (.NET SDK)
 ##### - IPinfo (.NET SDK)
-
-## Installation
-##### - To be updated soon. (12-04-2024 or 13-04-2024)
 
 ### Screenshots
 #### Pages
