@@ -108,4 +108,4 @@ try
 ##### Copyright &copy; 2024 Nikolay Shangov, Kiril Pavlov, Gabriela Kirilova and Ivan Vodenicharov.
 
 ## License
-##### RunClubManager is distributed under the MIT License, see the text file LICENSE for more details.
+##### RunClubManager is distributed under the MIT License, see the file LICENSE for more details.
