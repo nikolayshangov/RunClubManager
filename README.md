@@ -94,7 +94,7 @@ try
 #### Members
 ##### - Kiril Pavlov ([GitHub Profile](https://github.com/KiroBreikabg "Kiril's GitHub Profile"), [Instagram Account](https://www.instagram.com/k.pavlov_05 "Kiril's Instagram Account"))
 ##### - Gabriela Kirilova ([GitHub Profile](https://github.com/- "1's GitHub Profile"), [- Profile](- "1's - Profile")) [To be updated soon.]
-##### - Ivan Vodenicharov ([GitHub Profile](https://github.com/- "3's GitHub Profile"), [- Profile](- "3's - Profile")) [To be updated soon.]
+##### - Ivan Vodenicharov ([GitHub Profile](https://github.com/IVanVodenicharov55  "Ivan's GitHub Profile"), [- Profile](- "Ivan's - Profile")) [Instagram Account] (https://www.instagram.com/ivan_vodenicharov/"IvanS's Instagram Account"))
 
 ## Credits
 ### Images
