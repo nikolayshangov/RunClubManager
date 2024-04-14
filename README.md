@@ -29,7 +29,7 @@
     "ApiSecret": "ReplaceWithYourApiSecret"
   },
 ```
-##### - Get your Token from IPinfo and paste it in Controllers/`HomeController.cs`:
+##### - Get your Token from IPinfo and paste it in `Controllers/HomeController.cs`:
 ```
 var ipInfo = new IPInfo();
 var homeViewModel = new HomeViewModel();
