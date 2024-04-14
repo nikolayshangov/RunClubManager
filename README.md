@@ -93,7 +93,7 @@ try
 ##### - Nikolay Shangov ([GitHub Profile](https://github.com/nikolayshangov "Nikolay's GitHub Profile"), [YouTube Account](https://www.youtube.com/@nikolayshangov "Nikolay's YouTube Account"))
 #### Members
 ##### - Kiril Pavlov ([GitHub Profile](https://github.com/KiroBreikabg "Kiril's GitHub Profile"), [Instagram Account](https://www.instagram.com/k.pavlov_05 "Kiril's Instagram Account"))
-##### - Gabriela Kirilova ([GitHub Profile](https://github.com/- "1's GitHub Profile"), [- Profile](- "1's - Profile")) [To be updated soon.]
+##### - Gabriela Kirilova ([GitHub Profile](https://github.com/Gabrieella2189 "Gabriela's GitHub Profile"), [Instagram account](https://www.instagram.com/g_kirilovaa "Gabriela's Instagram account"))
 ##### - Ivan Vodenicharov ([GitHub Profile](https://github.com/IVanVodenicharov55 "Ivan's GitHub Profile"), [Instagram Account](https://www.instagram.com/ivan_vodenicharov/ "Ivan's Instagram Account"))
 
 ## Credits
