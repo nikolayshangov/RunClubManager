@@ -96,6 +96,8 @@ try
 ##### - Gabriela Kirilova ([GitHub Profile](https://github.com/Gabrieella2189 "Gabriela's GitHub Profile"), [Instagram Profile](https://www.instagram.com/g_kirilovaa "Gabriela's Instagram Profile"))
 ##### - Ivan Vodenicharov ([GitHub Profile](https://github.com/IVanVodenicharov55 "Ivan's GitHub Profile"), [Instagram Account](https://www.instagram.com/ivan_vodenicharov/ "Ivan's Instagram Account"))
 
+Note: Members haven't worked on the project. Only on Presentation and Documentation, README is done by Nikolay Shangov.
+
 ## Credits
 ### Images
 ##### - <a href="https://unsplash.com/@jennyhill">Jenny Hill</a> on <a href="https://unsplash.com/photos/man-running-on-road-near-grass-field-mQVWb7kUoOE">Unsplash</a>
